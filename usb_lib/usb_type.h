@@ -20,7 +20,7 @@
 /* Exported types ------------------------------------------------------------*/
 /* Exported constants --------------------------------------------------------*/
 #ifndef NULL
-#define NULL ((void *)0)
+#define NULL (0)
 #endif
 
 #ifndef __STM32F10x_TYPE_H
